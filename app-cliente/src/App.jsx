@@ -1,5 +1,5 @@
-import { CartProvider } from "./context/CartContext.jsx"
-import Home from "./pages/Home";
+import { CartProvider } from "./context/CartContext.jsx";
+import Home from "./pages/Home.jsx";
 
 function App() {
   return (
